@@ -1,2 +1,2 @@
-# android-network-utility
-Android kotlin library to detect the device's internet connection status
+# Android Network Utility
+Android kotlin library that provides useful information about the network
