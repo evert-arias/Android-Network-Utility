@@ -12,6 +12,12 @@ Android kotlin library that provides useful information about the network
 
 :building_construction: Working on it...
 
+
+
+## NetworkInfo
+
+Provide information about the device's network connectivity and let you set callbacks function to get notified when certain network related events occurs. 
+
 ### Usage
 
 This is a simple example of how to use the library to receive a notification upon a connectivity change.
@@ -46,6 +52,8 @@ class MainActivity : AppCompatActivity(), NetworkInfo.NetworkInfoListener {
 }
 
 ```
+
+
 
 ## That's all
 
