@@ -2,9 +2,9 @@
 
 Android kotlin library that provides useful information about the network
 
-## Getting started
+## :man_technologist: Getting started
 
-### Installation :man_technologist:
+### Installation 
 
 Here goes the installation instructions
 
