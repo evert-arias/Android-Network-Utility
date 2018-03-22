@@ -1,4 +1,4 @@
-# Android Network Utility
+#  :signal_strength: Android Network Utility
 
 Android kotlin library that provides useful information about the network
 
