@@ -2,17 +2,17 @@
 
 Android kotlin library that provides useful information about the network
 
-### Getting started
+## Getting started
 
-##### Installation
+### Installation
 
 Here goes the installation instructions
 
-##### Dependencies
+### Dependencies
 
 This library depends on some third parties libraries, which are the followings:
 
-##### Usage
+### Usage
 
 This is a simple example of how to use the library to receive a notification upon a connectivity change.
 
