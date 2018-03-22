@@ -47,6 +47,10 @@ class MainActivity : AppCompatActivity(), NetworkInfo.NetworkInfoListener {
 
 ```
 
+## That's all :relieved:
+
+Enjoy it! :relieved:
+
 
 
 ## Copyright
