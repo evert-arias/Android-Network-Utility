@@ -1,6 +1,6 @@
 /*
  * NetworkInfo
- * Provide network's status information.
+ * Utility class that provide information about the device's network connectivity
  * MIT License
  * Copyright (c) 2018 Evert Arias
  *

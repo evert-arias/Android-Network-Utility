@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity(), NetworkInfo.NetworkInfoListener {
     // instance of NetworkInfo
     private lateinit var networkInfo: NetworkInfo
     
-    // listener function to be called when network's status changes
+    // called when network's status changes
     override fun networkStatusChange(network: NetworkInfo.Network) {
         when(network.status){
             NetworkInfo.NetworkStatus.INTERNET -> {
@@ -38,9 +38,9 @@ class MainActivity : AppCompatActivity(), NetworkInfo.NetworkInfoListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        // get the class's singleton
+        // get a singleton instance of the class
         networkInfo = NetworkInfo.getInstance(this)
-        // add a listener function
+        // add a listener
         networkInfo.addListener(this)
     }
 }
