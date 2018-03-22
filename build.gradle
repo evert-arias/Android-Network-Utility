@@ -33,7 +33,15 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+    compile 'org.jetbrains.kotlinx:kotlinx-coroutines-core:0.22.3'
+    compile "org.jetbrains.anko:anko:$anko_version"
 }
+
 repositories {
     mavenCentral()
+}
+kotlin {
+    experimental {
+        coroutines "enable"
+    }
 }
