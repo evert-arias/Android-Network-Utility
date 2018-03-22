@@ -6,11 +6,11 @@ Android kotlin library that provides useful information about the network
 
 ### Installation 
 
-Here goes the installation instructions
+:building_construction: Working on it...
 
 ### Dependencies
 
-This library depends on some third parties libraries, which are the followings:
+:building_construction: Working on it...
 
 ### Usage
 
