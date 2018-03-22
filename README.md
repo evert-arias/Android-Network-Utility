@@ -1,12 +1,10 @@
-# ​Android Network Utility
+# Android Network Utility
 
 Android kotlin library that provides useful information about the network
 
 ## Getting started
 
-### Installation
-
-:man_technologist:
+### Installation :man_technologist:
 
 Here goes the installation instructions
 
