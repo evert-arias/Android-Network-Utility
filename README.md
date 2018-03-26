@@ -4,16 +4,6 @@ Android kotlin library that provides useful information about the network
 
 ## :man_technologist: Getting started
 
-### Installation 
-
-:building_construction: Working on it...
-
-### Dependencies
-
-:building_construction: Working on it...
-
-
-
 ## NetworkInfo
 
 Provide information about the device's network connectivity and let you set callbacks function to get notified when certain network related events occurs. 
