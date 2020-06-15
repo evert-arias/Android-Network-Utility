@@ -2,7 +2,7 @@
 
 Android kotlin library that provides useful information about the network
 
-## :man_technologist: Getting started
+## Getting started
 
 ## NetworkInfo
 
